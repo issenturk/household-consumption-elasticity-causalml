@@ -1,0 +1,1 @@
+TODO: HBA consumption aggregation queries yazabilirsiniz
